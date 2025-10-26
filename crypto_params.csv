@@ -1,0 +1,5 @@
+strategy,param,value
+funding_mr,funding_8h_min_pct,0.05
+breakout_ob,depth_ratio_min,1.2
+trend_pullback,adx_min,22.0
+risk,per_trade_risk_pct,0.25
