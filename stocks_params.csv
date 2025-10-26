@@ -1,0 +1,5 @@
+strategy,param,value
+earnings_drift,gap_min_pct,1.0
+gap_classifier,fade_gap_min_pct,3.5
+trend_pullback,adx_min,22.0
+risk,per_trade_risk_pct,0.25
