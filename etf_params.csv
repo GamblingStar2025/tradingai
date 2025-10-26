@@ -1,0 +1,9 @@
+strategy,param,value
+vwap_mr,z_thr_abs,1.6
+vwap_mr,vol_spike_x,1.3
+vwap_mr,sl_atr_mult,1.2
+orb,range_min,5min
+orb,vol_spike_x,1.5
+trend_pb,adx_min,22
+risk,per_trade_risk_pct,0.25
+risk,day_max_dd_pct,-2.0
